@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.escuelaing.arep.SimpleWebServerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.398 s -- in edu.escuelaing.arep.SimpleWebServerTest
